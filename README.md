@@ -16,6 +16,7 @@ Repositorio de primera evaluación.
  Las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
  5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+ 
 |Aplicaciones|  Visto|
 |Google Docs|  ![IMAGEN](https://github.com/DrPol7/SMX2_M8UF1A2_Evaluacion_inicial_PolNicolas/blob/main/VISTO%20PARA%20EL%20CODIGO%20DE%20STUDIO%20CODE.png)|
 
