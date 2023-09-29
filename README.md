@@ -17,7 +17,10 @@ Repositorio de primera evaluación.
 
  5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
-|Aplicaciones|  Visto|
+|__Aplicaciones__| __Visto__|
 |------------|----------:|
 |Google Docs|  ![IMAGEN](https://github.com/DrPol7/SMX2_M8UF1A2_Evaluacion_inicial_PolNicolas/blob/main/VISTO%20PARA%20EL%20CODIGO%20DE%20STUDIO%20CODE.png)|
+|Google Slides| ![IMAGEN](https://github.com/DrPol7/SMX2_M8UF1A2_Evaluacion_inicial_PolNicolas/blob/main/VISTO%20PARA%20EL%20CODIGO%20DE%20STUDIO%20CODE.png)|
+|Google Sheets| ![IMAGEN](https://github.com/DrPol7/SMX2_M8UF1A2_Evaluacion_inicial_PolNicolas/blob/main/VISTO%20PARA%20EL%20CODIGO%20DE%20STUDIO%20CODE.png)|
+|Google Calendar| 
 
